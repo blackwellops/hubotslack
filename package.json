@@ -21,7 +21,8 @@
 	"hubot-plusplus": "*",
 	"hubot-darts": "*",
 	"hubot-victory": "*",
-	"hubot-business-cat": "*"
+	"hubot-business-cat": "*",
+	"hubot-youtube": "*"
   },
   "engines": {
     "node": "0.10.x"
