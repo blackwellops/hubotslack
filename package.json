@@ -23,7 +23,8 @@
 	"hubot-victory": "*",
 	"hubot-business-cat": "*",
 	"hubot-youtube": "*",
-	"hubot-thank-you": "*"
+	"hubot-thank-you": "*",
+	"hubot-reaction": "*"
   },
   "engines": {
     "node": "0.10.x"
