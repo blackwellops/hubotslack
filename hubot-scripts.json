@@ -1,1 +1,5 @@
-["darksky.coffee"]
+[ 
+	"darksky.coffee",
+	"f-ing-weather.coffee"
+
+]
